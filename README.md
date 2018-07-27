@@ -1,4 +1,4 @@
-# ISSTracker
+# ISS-tracker
 ISS tracker using RPi and Arduino
 
 Last modified 01 MAY 2014
